@@ -1,0 +1,1 @@
+Elite Private School ERP - Complete Django System with Mobile App Integration
